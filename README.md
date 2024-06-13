@@ -23,7 +23,7 @@ Entusiasta de tecnologia em constante aprendizado e evolução.
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-![GustavoGPreti](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![GustavoGPreti](https://github-readme-stats.vercel.app/api?username=GustavoGPreti&show_icons=true&theme=transparent)
 ## Como Contribuir
 
 Se você deseja colaborar em algum dos meus projetos, sinta-se à vontade para fazer um fork do repositório, criar uma nova branch e enviar um pull request com suas mudanças. Sempre fico feliz em receber contribuições da comunidade!
@@ -35,6 +35,6 @@ Se você deseja colaborar em algum dos meus projetos, sinta-se à vontade para f
 5. Abra um Pull Request
 
 
-![GustavoGPreti](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![GustavoGPreti](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGPreti&hide_progress=true)
 
 ### Obrigado por visitar meu perfil!
